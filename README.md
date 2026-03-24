@@ -27,4 +27,5 @@ Analyze sales data to identify trends, top products, and regional performance.
 - Excel (Pivot Tables, Formulas)
 
 ## 📷 Dashboard Preview
-(Add screenshot here)
+<img width="1471" height="934" alt="image" src="https://github.com/user-attachments/assets/a1a81e2d-ec68-453b-8158-85077a7feaed" />
+
