@@ -28,5 +28,6 @@ Analyze sales data to identify trends, top products, and regional performance.
 
 ## 📷 Dashboard Preview
 <img width="1471" height="934" alt="image" src="https://github.com/user-attachments/assets/a1a81e2d-ec68-453b-8158-85077a7feaed" />
-![Uploading Screenshot 2026-03-29 232208.png…]()
+<img width="1910" height="1016" alt="Screenshot 2026-03-29 232208" src="https://github.com/user-attachments/assets/1606cc19-1d4d-497c-8499-906b4bc0fb41" />
+
 
