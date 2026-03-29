@@ -6,8 +6,7 @@ Sales data analysis using Excel with dashboard and business insights
 Analyze sales data to identify trends, top products, and regional performance.
 
 ## 📁 Dataset
-- Source: Sample dataset
-- Columns: Date, Product, Region, Sales
+- Source: Sample dataset(attached in repo)
 
 ## 🧹 Data Cleaning
 - Removed missing values
