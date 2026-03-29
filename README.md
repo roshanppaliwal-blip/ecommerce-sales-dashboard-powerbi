@@ -24,7 +24,9 @@ Analyze sales data to identify trends, top products, and regional performance.
 - Opportunity to improve South region sales
 
 ## 🛠 Tools Used
-- Excel (Pivot Tables, Formulas)
+- Excel 
+- My sql
+- Power bi
 
 ## 📷 Dashboard Preview
 <img width="1471" height="934" alt="image" src="https://github.com/user-attachments/assets/a1a81e2d-ec68-453b-8158-85077a7feaed" />
